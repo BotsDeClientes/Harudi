@@ -39,7 +39,7 @@ global.confirmCode = "" // No tocar esto : Do not touch this line
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // ❰❰ Multi Idioma Dinámico : Dynamic aa xMulti Language (MID-GB) ❱❱
-aaaáa// [ES] > Agregué uno de los idiomas disponibles para el Bot en "mid".
+// [ES] > Agregué uno de los idiomas disponibles para el Bot en "mid".
 // [EN] > I added one of the languages available for the Bot in "mid".
 
 // ❰❰ IDIOMAS DISPONIBLES : AVAILABLE LANGUAGES ❱❱
